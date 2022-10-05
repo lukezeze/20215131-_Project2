@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2주차1번문제.cpp">
+    <ClCompile Include="2주차문제2번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
